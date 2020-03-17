@@ -1,8 +1,9 @@
 # Assalamualikum Nama Saya **Enggar Septrinas**
 
-![image](asset/Enggar.jpg)
+![image](/assets/Enggar.jpg)
 
-## Social Media 
+## Social Media
+
 - _Instagram_ : [@enggarseptrinas](https://www.instagram.com/enggarseptrinas/) <br>
 - _Twitter_ : [@EnggarSip](https://twitter.com/EnggarSip)
 - _Github_ : [EnggarSe](https://github.com/EnggarSe)
